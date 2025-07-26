@@ -30,9 +30,7 @@ This Conky configuration provides real-time monitoring for:
 
 ## Screenshot
 
-(Once you've uploaded your screenshot, update the path below. You can drag and drop your screenshot into your GitHub repository directly, perhaps in a `screenshots/` folder.)
-
-![Screenshot of My Conky Setup](screenshots/your-screenshot-name.png)
+![My Conky Corner](Screenshot 1.png)
 
 ## Installation Guide
 
