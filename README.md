@@ -30,7 +30,7 @@ This Conky configuration provides real-time monitoring for:
 
 ## Screenshot
 
-![My Conky Corner](Screenshot 1.png)
+![My Conky Corner](Screenshot_1.png)
 
 ## Installation Guide
 
